@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I find great satisfaction in working with LLMs and Diffusion Models. Currently, I am involved in a small project where I am employing the Retrieval-Augmented Generation (RAG) Architecture alongside LLM Agents.<br><br><br><br>Also, I am deeply passionate about exploring and advancing various domains within machine learning, deep learning, and reinforcement learning. Currently, I focus on employing GBDTs and Linear Models for traditional machine learning tasks, while leveraging TensorFlow for deep learning projects.
+I find great satisfaction in working with LLMs and Diffusion Models. Currently, I am involved in a small project where I am employing the Retrieval-Augmented Generation (RAG) Architecture alongside LLM Agents.<br><br>Also, I am deeply passionate about exploring and advancing various domains within machine learning, deep learning, and reinforcement learning. Currently, I focus on employing GBDTs and Linear Models for traditional machine learning tasks, while leveraging TensorFlow for deep learning projects.
 
 
 ## 🌐 Socials:
